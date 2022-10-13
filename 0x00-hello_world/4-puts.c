@@ -1,7 +1,5 @@
 #include <stdio.h>
-/*
- *A program that prints
- *a string of characters
+/**
  *main - main entry
  *Return: 0
  */
