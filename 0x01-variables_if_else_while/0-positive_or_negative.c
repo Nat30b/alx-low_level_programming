@@ -1,5 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
+/**
+ *main = main entry
+ *Return: 0
+ */
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
