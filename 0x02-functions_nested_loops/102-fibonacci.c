@@ -10,7 +10,7 @@ a = 0;
 b = 1;
 for (i = 1; i <= 50; i++)
 {
-printf("%d\n, ", a);
+printf("%d, ", a);
 result = a + b;
 a = b;
 b = result;
