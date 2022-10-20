@@ -14,5 +14,6 @@ result = a + b;
 a = b;
 b = result;
 }
+return (0);
 }
 
