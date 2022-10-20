@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
- *fibonacci :> first 50 fibonacci numbers
+ *main - main entry
+ *Return: 0
  */
 int main(void)
 {
 int i, a, b, result;
-a=0;
-b=1;
+a = 0;
+b = 1;
 for (i = 1; i <= 50; i++)
 {
 printf("%d\n, ", a);
@@ -16,4 +17,3 @@ b = result;
 }
 return (0);
 }
-
