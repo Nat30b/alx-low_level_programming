@@ -6,9 +6,9 @@
 int main(void)
 {
 int i, a, b, result;
-a = 1;
+a = 2;
 b = 1;
-for (i = 1; i <= 50; i++)
+for (i = 1; i <= 50; ++i)
 {
 printf("%d, ", a);
 result = a + b;
